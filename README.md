@@ -1,3 +1,3 @@
-# RPA
+# RPA - Finger count recognizer using UiPath adn Python
 
-This repo holds work of RPA
+Finger count recognizer using UiPath adn Python
